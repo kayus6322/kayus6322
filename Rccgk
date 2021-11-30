@@ -1,0 +1,46 @@
+<div class="canvas">
+  
+  <div class="floor cube"><div></div></div>
+  
+  <div class="wall">
+    <div class="cube"><div></div></div>
+    <div class="cube"><div></div></div>
+    <div class="cube"><div></div></div>
+    <div class="cube"><div></div></div>
+    <div class="cube"><div></div></div>
+    <div class="cube"><div></div></div>
+    <div class="cube"><div></div></div>
+    <div class="paint"></div>
+    <div class="paint"></div>
+  </div>
+  
+  <div class="cube step"><div></div></div>
+  
+  <div class="door">
+    <div class="cube door-board">
+      <div></div>
+      <span class="cube handle"><div></div></span>
+      <span class="cube neck"><div></div></span>
+    </div>
+    <div class="cube frame-top"><div></div></div>
+    <div class="cube frame-side"><div></div></div>
+    <div class="cube frame-side"><div></div></div>
+    
+  </div>
+  
+  <div class="window">
+    <div class="cube frame-top"><div></div></div>
+    <div class="cube frame-top"><div></div></div>
+    <div class="cube frame-side"><div></div></div>
+    <div class="cube frame-side"><div></div></div>
+  </div>
+  
+  <div class="shade">
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+</div>
+
+<a id="youtube" href="https://www.youtube.com/watch?v=7Ggk7N5a7-Q" target="_blank">
+  <span>See how this demo was coded</span>
+</a>
